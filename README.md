@@ -6,8 +6,8 @@ Lung_R
 Lung_L  
 BODY  
 
-Futakami Natsumi, Medical Physicist, Department of Radiation Oncology, Tokai University School of Medicine  
-Takafumi Nemoto, Radiation Oncologist, Department of Radiology, Keio University School of Medicine
+Natsumi Futakami, Medical Physicist, Department of Radiation Oncology, Tokai University School of Medicine  
+Takafumi Nemoto, M.D., Radiation Oncologist, Department of Radiology, Keio University School of Medicine
 
 
 # 肺セグメンテーション用ラベルデータセットの提供
